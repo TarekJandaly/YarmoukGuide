@@ -1,16 +1,18 @@
-# unity_test
+# YPU AR Navigation App
 
-A new Flutter project.
+An Augmented Reality app that helps students, faculty, and staff at Yarmouk Private University navigate the campus and access services.
 
-## Getting Started
+## 🎯 Features
+- AR marker detection and location tracking
+- Indoor navigation using Unity + AR Foundation
+- Role-based UI (Student, Teacher, Admin, Visitor)
+- Admin dashboard for managing events, users, rooms
+- WebSocket integration for real-time position sync
 
-This project is a starting point for a Flutter application.
+## 🚀 Technologies
+- Flutter (frontend)
+- Unity (AR system)
+- Laravel / Node.js (backend API)
+- WebSocket
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📁 Project Structure
